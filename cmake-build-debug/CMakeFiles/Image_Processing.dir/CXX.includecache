@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/slam/CLionProjects/Image_Processing/src/Header.h
+
+/Users/slam/CLionProjects/Image_Processing/src/Image.h
+vector
+-
+pixel.h
+/Users/slam/CLionProjects/Image_Processing/src/pixel.h
+
+/Users/slam/CLionProjects/Image_Processing/src/image-processor.cpp
+iostream
+-
+fstream
+-
+Header.h
+/Users/slam/CLionProjects/Image_Processing/src/Header.h
+pixel.h
+/Users/slam/CLionProjects/Image_Processing/src/pixel.h
+Image.h
+/Users/slam/CLionProjects/Image_Processing/src/Image.h
+string
+-
+
+/Users/slam/CLionProjects/Image_Processing/src/pixel.h
+vector
+-
+iostream
+-
+fstream
+-
+
